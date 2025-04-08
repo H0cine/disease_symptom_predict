@@ -1,4 +1,4 @@
-🩺 SymbiPredict - Disease Prediction System
+🩺SymbiPredict - Disease Prediction System
 SymbiPredict is a simple machine learning-based disease prediction system using user-input symptoms and a Random Forest Classifier. This project is implemented in Python and uses a dataset of symptoms to predict possible diseases.
 
 📌 Features
